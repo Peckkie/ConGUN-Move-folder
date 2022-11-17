@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "concealedgunresult",
+  "private_key_id": "c1a1dc3f634d589cf6a18b6d448340ab3b6f3a9a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC2hOQrpcp2VaqX\nBxCkqXeQK3GGaAc8IE0iPgTK3sAHi2BEhwQLvEVZJX/WkBlhhshBr1JoL79hf1CL\n62Leanw7Zf16NnMDAvh5FGQrmpZvVYpzplrOBjhrLUY3y9o4Rh1XIk6rydqeqDgm\noTbYPMBqvDarR1FSR540V5wIKrhZmxmTldXFrhoXTKMKuNYbDpq66xZWTKAFOrAj\n+ZgqQckY717Csr9YqdeZPsD0aD/IbE1jCc8B8z+yialsBk14qH/PObUKDzRp3Cxn\n+bT8JF+elFSXROxaOdOyfaSgyzQRBUmVgEYLEsfphgAU0MtJAwsi4ZMa/0jWTg7v\nx5dcnq+7AgMBAAECggEAFlLN/tH/SlaTT8zgaeiu+VDRnh55IWR9//3VOOQ3rnSL\nPgvEIJSoErg1w44fser58UwP6IhL1bvsTmtoI0tOOIxH4ru9eL/TQ36NUJFOwafq\nZYISQc1G90I0ABJhyqzgsniSu2DWlBMqaFHNfch9waWVi4C53zYSkSpUqOG4vH9j\nrchADnXo77CcDPfe91CpL3cPNHajnSEYmBkVrz2Ch9j362f3LiyFMqBX/1Wd6vhC\nOZS3KaHLT7aUiUbo8dUFNinWVZxGZYv4Lj1Jy2lnl+TmkNZZiuSse49g13Y36ewl\nyPt5UF4SqDw7hoflFqvIjAtFumEaltX5N5vbzbhewQKBgQDw5wP9YgfG7a0Z64WB\ndgFJGcj1CVh9DkHv8gTUNFCXG8zN0+mlPbSgBMK5DDZ7k5jNNBNRzxTzfKRlIfM1\ndW1ezQ0GulAUWvEuo4pfjGlIkU+nWMydbmklQGPsvJhhyfCDfzA134CVzdOCX1gK\nfIoByqVd2LjjyDT1fXgDNCfUmwKBgQDB9S/l81vSyWu4VsN3ay7AhdyPPpuq2D8Y\ntXwc2oMoIUhuG+VDQfEYkGaHF5zQDsW6vZY3ajejo5qsl0u2OnZsvKqa4896GzZ6\nlTdjjT7MyabLklne0tVKKk87kGHPiYUNzcu55swhJnP5zdkLyoSfchFVfrIDq0a3\nDMd9n6jzYQKBgEyaqYIhcien3KupYULRq4b7VBPXbPQXXJBYfYCdQiNLC81H3bxV\n6uIXoXQGliyluqlGLf6NwzPKJtyh9xzAwo6q1cGV7XELmjYiexX3KGOTEak9a5OE\nUJsv5paZQjuWY4ztHP+EmvcIBIIon252O8xmDD/Tcre8KlsGEuux4hiRAoGAdbxF\n9QoChTNrRhy0znqriIY5WmKgz9Ywhukzi7hAwU1i0CPyyR7wIP8WnY6By/ILqM2I\nr960I4seSwIUHWvjkyH7VcZPnUmDimmlk7KbmmgV7aDLGO1WN4zzR67fEMHjmHuB\n3TjyVHUpFUwVIokudDMjvogHux5u8JK7TdBrGEECgYB78CK54M4ntiqs7Z2djNji\nMJ8nXBW8rm9gxkdEKps7LAYFufOJovtpxryIzmQ1aAr9AZhniIlXSYxQYjASVSMh\n45lfMc7ZZzYrW7X6+P/LIBIIPoC2dWxbDbs9T7FnssDXRD5f3wVhxGXe14IE/k6v\nB2ljHtgaF7/oIuuv7LKLOQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "kiegooglesheets@concealedgunresult.iam.gserviceaccount.com",
+  "client_id": "113046106953489030429",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kiegooglesheets%40concealedgunresult.iam.gserviceaccount.com"
+}
